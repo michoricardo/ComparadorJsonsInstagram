@@ -1,0 +1,69 @@
+{
+  "relationships_following": [
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/fakeuser",
+          "value": "fakeuser",
+          "timestamp": 1691382157
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/fakeuser2",
+          "value": "fakeuser2",
+          "timestamp": 1385790436
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/fakeuser6",
+          "value": "fakeuser6",
+          "timestamp": 1385790436
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/fakeuser7",
+          "value": "fakeuser7",
+          "timestamp": 1385790436
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/fakeuser8",
+          "value": "fakeuser8",
+          "timestamp": 1385790436
+        }
+      ]
+    }
+  ]
+}
